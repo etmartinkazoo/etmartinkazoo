@@ -1,4 +1,4 @@
-### Hi there, I'm Ted Martin - you can find me at my [website](https://tedmartin.us) 👋
+### Hi there, I'm Ted 👋
 
 ## I work at Azure Standard as a Senior Python Developer
 
