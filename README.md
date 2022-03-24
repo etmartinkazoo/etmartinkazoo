@@ -1,10 +1,8 @@
 ### Hi there, I'm Ted 👋
 
-## I work at Azure Standard as a Senior Python Developer
-
 - 🔭 I’m currently working on writing beautiful Python code.
 - 🌱 I’m currently loving Docker, Postgresql, and the backend of things.
-- 🥅 2021 Goals: Become a better person and developer everyday.
+- 🥅 2022 Goals: Become a better person and developer everyday.
 - ⚡ Fun fact: I'm pretty good at basketball even though I'm not young anymore. I also love to read.
 
 ---
