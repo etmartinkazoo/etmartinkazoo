@@ -1,8 +1,7 @@
 ### Hi there, I'm Ted 👋
 
-- 🔭 I’m currently working on writing beautiful Python code.
-- 🌱 I’m currently loving Docker, Postgresql, and the backend of things.
-- 🥅 2022 Goals: Become a better person and developer everyday.
+- 🔭 I’m currently building businesses with (Brem)[https://brem.io] and writing the best code I can write with our team.
+- 🥅 2023 Goals: Stay focused and lead with humility and hard work.
 - ⚡ Fun fact: I'm pretty good at basketball even though I'm not young anymore. I also love to read.
 
 ---
@@ -13,11 +12,9 @@
 * CSS
 * JavaScript
 * Python
-* Ruby
+* PHP
 * Bash
 * Git
 * VIM
 * Docker
 * Postgresql and SQL
-
-I've chosen to learn these core languages and tools deeply. Focusing on a core set of technologies has been the best choice I've made in my development career.
