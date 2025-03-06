@@ -1,7 +1,7 @@
 ### Hi there, I'm Ted 👋
 
 - 🔭 I’m currently building businesses with [Brem](https://brem.io) and building an incredible team of talented developers.
-- 🥅 2024 Goals: Stay focused and lead with humility and hard work.
+- 🥅 2025 Goals: Stay focused and lead with humility and hard work.
 - ⚡ Fun fact: I'm pretty good at basketball even though I'm not young anymore. I also love to read.
 
 ---
@@ -12,7 +12,7 @@
 * CSS
 * JavaScript
 * Ruby
-* Rails
+* Ruby on Rails
 * Bash
 * Git
 * VIM
